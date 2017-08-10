@@ -11,6 +11,7 @@
 @interface ViewController ()
 {
     NSString *_tag1;
+    NSString *_tag2;
 }
 @end
 
