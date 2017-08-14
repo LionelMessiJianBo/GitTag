@@ -12,6 +12,11 @@
 {
     NSString *_tag1;
     NSString *_tag9;
+    NSString *_tag7;
+    NSString *_tag8;
+    NSString *_tag5;
+    NSString *_tag2;
+    NSString *_tag3;
 }
 @end
 
